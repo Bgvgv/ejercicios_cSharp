@@ -50,11 +50,10 @@ class E81
         Console.WriteLine("Suma-2: {0}", suma[1]);
 
         Console.WriteLine("Promedio por columnas");
-        Console.WriteLine("Suma-1: {0}", suma[0] / filas);
-        Console.WriteLine("Suma-2: {0}", suma[1] / filas);
-
-        Console.WriteLine("Promedio general");
-        Console.WriteLine("Suma-1: {0}", (suma[0] + suma[1]) / (filas * filas));
+        Console.WriteLine("Promedio-1: {0}", suma[0] / filas);
+        Console.WriteLine("Promedio-2: {0}", suma[1] / filas);
+        Console.WriteLine("Suma general: {0}", (suma[0] + suma[1]));
+        Console.WriteLine("Promedio general: {0}", (suma[0] + suma[1])/(columnas * filas));
 
 
 
