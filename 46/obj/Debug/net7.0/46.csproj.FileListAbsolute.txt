@@ -1,0 +1,14 @@
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/bin/Debug/net7.0/46
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/bin/Debug/net7.0/46.deps.json
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/bin/Debug/net7.0/46.runtimeconfig.json
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/bin/Debug/net7.0/46.dll
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/bin/Debug/net7.0/46.pdb
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/46.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/46.AssemblyInfoInputs.cache
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/46.AssemblyInfo.cs
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/46.csproj.CoreCompileInputs.cache
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/46.dll
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/refint/46.dll
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/46.pdb
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/46.genruntimeconfig.cache
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/Ejercicios/ejercicios-CSharp/46/obj/Debug/net7.0/ref/46.dll

@@ -1,0 +1,15 @@
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.csproj.AssemblyReference.cache
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.AssemblyInfoInputs.cache
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.AssemblyInfo.cs
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-2/28/bin/Debug/net7.0/28
+/workspaces/ejercicios-2/28/bin/Debug/net7.0/28.deps.json
+/workspaces/ejercicios-2/28/bin/Debug/net7.0/28.runtimeconfig.json
+/workspaces/ejercicios-2/28/bin/Debug/net7.0/28.dll
+/workspaces/ejercicios-2/28/bin/Debug/net7.0/28.pdb
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.dll
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/refint/28.dll
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.pdb
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/28.genruntimeconfig.cache
+/workspaces/ejercicios-2/28/obj/Debug/net7.0/ref/28.dll

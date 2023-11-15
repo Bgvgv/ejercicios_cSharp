@@ -1,0 +1,15 @@
+/workspaces/ejercicios-CSharp/40/bin/Debug/net7.0/40
+/workspaces/ejercicios-CSharp/40/bin/Debug/net7.0/40.deps.json
+/workspaces/ejercicios-CSharp/40/bin/Debug/net7.0/40.runtimeconfig.json
+/workspaces/ejercicios-CSharp/40/bin/Debug/net7.0/40.dll
+/workspaces/ejercicios-CSharp/40/bin/Debug/net7.0/40.pdb
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.csproj.AssemblyReference.cache
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.AssemblyInfoInputs.cache
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.AssemblyInfo.cs
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.dll
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/refint/40.dll
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.pdb
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/40.genruntimeconfig.cache
+/workspaces/ejercicios-CSharp/40/obj/Debug/net7.0/ref/40.dll

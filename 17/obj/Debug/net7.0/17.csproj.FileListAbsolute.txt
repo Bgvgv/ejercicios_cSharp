@@ -1,0 +1,15 @@
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.csproj.AssemblyReference.cache
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.AssemblyInfoInputs.cache
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.AssemblyInfo.cs
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-2/17/bin/Debug/net7.0/17
+/workspaces/ejercicios-2/17/bin/Debug/net7.0/17.deps.json
+/workspaces/ejercicios-2/17/bin/Debug/net7.0/17.runtimeconfig.json
+/workspaces/ejercicios-2/17/bin/Debug/net7.0/17.dll
+/workspaces/ejercicios-2/17/bin/Debug/net7.0/17.pdb
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.dll
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/refint/17.dll
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.pdb
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/17.genruntimeconfig.cache
+/workspaces/ejercicios-2/17/obj/Debug/net7.0/ref/17.dll

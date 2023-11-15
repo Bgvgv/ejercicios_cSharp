@@ -1,0 +1,15 @@
+/workspaces/ejercicios-2/21-1/bin/Debug/net7.0/21-1
+/workspaces/ejercicios-2/21-1/bin/Debug/net7.0/21-1.deps.json
+/workspaces/ejercicios-2/21-1/bin/Debug/net7.0/21-1.runtimeconfig.json
+/workspaces/ejercicios-2/21-1/bin/Debug/net7.0/21-1.dll
+/workspaces/ejercicios-2/21-1/bin/Debug/net7.0/21-1.pdb
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.csproj.AssemblyReference.cache
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.AssemblyInfoInputs.cache
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.AssemblyInfo.cs
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.dll
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/refint/21-1.dll
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.pdb
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/21-1.genruntimeconfig.cache
+/workspaces/ejercicios-2/21-1/obj/Debug/net7.0/ref/21-1.dll

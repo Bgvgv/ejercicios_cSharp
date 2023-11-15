@@ -1,0 +1,15 @@
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/bin/Debug/net6.0/22
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/bin/Debug/net6.0/22.deps.json
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/bin/Debug/net6.0/22.runtimeconfig.json
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/bin/Debug/net6.0/22.dll
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/bin/Debug/net6.0/22.pdb
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.csproj.AssemblyReference.cache
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.AssemblyInfoInputs.cache
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.AssemblyInfo.cs
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.csproj.CoreCompileInputs.cache
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.dll
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/refint/22.dll
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.pdb
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/22.genruntimeconfig.cache
+/Users/borisgarces/proyectos/MODULO_DAW/Programacion/ejercicios-CSharp/22/obj/Debug/net6.0/ref/22.dll

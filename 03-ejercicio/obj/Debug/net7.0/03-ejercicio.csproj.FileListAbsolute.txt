@@ -1,0 +1,15 @@
+/workspaces/ejercicios-CSharp/03-ejercicio/bin/Debug/net7.0/03-ejercicio
+/workspaces/ejercicios-CSharp/03-ejercicio/bin/Debug/net7.0/03-ejercicio.deps.json
+/workspaces/ejercicios-CSharp/03-ejercicio/bin/Debug/net7.0/03-ejercicio.runtimeconfig.json
+/workspaces/ejercicios-CSharp/03-ejercicio/bin/Debug/net7.0/03-ejercicio.dll
+/workspaces/ejercicios-CSharp/03-ejercicio/bin/Debug/net7.0/03-ejercicio.pdb
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.csproj.AssemblyReference.cache
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.AssemblyInfoInputs.cache
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.AssemblyInfo.cs
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.dll
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/refint/03-ejercicio.dll
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.pdb
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/03-ejercicio.genruntimeconfig.cache
+/workspaces/ejercicios-CSharp/03-ejercicio/obj/Debug/net7.0/ref/03-ejercicio.dll

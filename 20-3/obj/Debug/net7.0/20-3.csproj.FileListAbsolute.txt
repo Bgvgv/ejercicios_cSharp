@@ -1,0 +1,15 @@
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.csproj.AssemblyReference.cache
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.AssemblyInfoInputs.cache
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.AssemblyInfo.cs
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-2/20-3/bin/Debug/net7.0/20-3
+/workspaces/ejercicios-2/20-3/bin/Debug/net7.0/20-3.deps.json
+/workspaces/ejercicios-2/20-3/bin/Debug/net7.0/20-3.runtimeconfig.json
+/workspaces/ejercicios-2/20-3/bin/Debug/net7.0/20-3.dll
+/workspaces/ejercicios-2/20-3/bin/Debug/net7.0/20-3.pdb
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.dll
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/refint/20-3.dll
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.pdb
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/20-3.genruntimeconfig.cache
+/workspaces/ejercicios-2/20-3/obj/Debug/net7.0/ref/20-3.dll

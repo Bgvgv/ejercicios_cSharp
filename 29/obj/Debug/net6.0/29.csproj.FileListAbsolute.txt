@@ -1,0 +1,15 @@
+/workspaces/ejercicios-CSharp/29/bin/Debug/net6.0/29
+/workspaces/ejercicios-CSharp/29/bin/Debug/net6.0/29.deps.json
+/workspaces/ejercicios-CSharp/29/bin/Debug/net6.0/29.runtimeconfig.json
+/workspaces/ejercicios-CSharp/29/bin/Debug/net6.0/29.dll
+/workspaces/ejercicios-CSharp/29/bin/Debug/net6.0/29.pdb
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.csproj.AssemblyReference.cache
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.AssemblyInfoInputs.cache
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.AssemblyInfo.cs
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.dll
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/refint/29.dll
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.pdb
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/29.genruntimeconfig.cache
+/workspaces/ejercicios-CSharp/29/obj/Debug/net6.0/ref/29.dll

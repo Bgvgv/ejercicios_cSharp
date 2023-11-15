@@ -1,0 +1,15 @@
+/workspaces/ejercicios-2/13-ejercicio/bin/Debug/net7.0/13-ejercicio
+/workspaces/ejercicios-2/13-ejercicio/bin/Debug/net7.0/13-ejercicio.deps.json
+/workspaces/ejercicios-2/13-ejercicio/bin/Debug/net7.0/13-ejercicio.runtimeconfig.json
+/workspaces/ejercicios-2/13-ejercicio/bin/Debug/net7.0/13-ejercicio.dll
+/workspaces/ejercicios-2/13-ejercicio/bin/Debug/net7.0/13-ejercicio.pdb
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.csproj.AssemblyReference.cache
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.AssemblyInfoInputs.cache
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.AssemblyInfo.cs
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.dll
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/refint/13-ejercicio.dll
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.pdb
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/13-ejercicio.genruntimeconfig.cache
+/workspaces/ejercicios-2/13-ejercicio/obj/Debug/net7.0/ref/13-ejercicio.dll
