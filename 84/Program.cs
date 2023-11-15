@@ -18,36 +18,34 @@ class E81
 
     static void Main()
     {
-
+const int cantidad = 3;
+        object[] array = new object[cantidad];
         
+        for (int i = 0; i < cantidad; i++)
+        {
+            Console.WriteLine("Introduce los datos del juego");
+            Console.Write("Título: ");
+            string? titulo = Console.ReadLine();
+            Console.Write("Plataforma: ");
+            string? plataforma = Console.ReadLine();
+            Console.Write("Espacio que ocupa en MB: ");
+            int espacio = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Introduce los datos del juego");
-        Console.Write("Título: ");
-        string? titulo = Console.ReadLine();
-        Console.Write("Plataforma: ");
-        string? plataforma = Console.ReadLine();
-        Console.Write("Espacio que ocupa en MB: ");
-        int espacio = Convert.ToInt32(Console.ReadLine());
+            datosDelJuego[] juego = new datosDelJuego[cantidad];
+            juego[i].titulo = titulo;
+            juego[i].plataforma = plataforma;
+            juego[i].espacioOcupado = espacio;
 
-        datosDelJuego juego1;
-        juego1.titulo = titulo;
-        juego1.plataforma = plataforma;
-        juego1.espacioOcupado = espacio;
-        Console.WriteLine("Datos del juego: Nombre: {0}, Plataforma: {1}, Espacio que ocupa: {2} MG", juego1.titulo, juego1.plataforma, juego1.espacioOcupado);
+            array[i] = juego[i].titulo + " " + juego[i].plataforma +" "+ juego[i].espacioOcupado + "MB. ";
 
-        Console.WriteLine("Introduce los datos del juego");
-        Console.Write("Título: ");
-        string? titulo2 = Console.ReadLine();
-        Console.Write("Plataforma: ");
-        string? plataforma2 = Console.ReadLine();
-        Console.Write("Espacio que ocupa en MB: ");
-        int espacio2 = Convert.ToInt32(Console.ReadLine());
+        }
 
-        datosDelJuego juego2;
-        juego2.titulo = titulo2;
-        juego2.plataforma = plataforma2;
-        juego2.espacioOcupado = espacio2;
-        Console.WriteLine("Datos del juego: Nombre: {0}, Plataforma: {1}, Espacio que ocupa: {2} MG", juego2.titulo, juego2.plataforma, juego2.espacioOcupado);
+        for (int i = 0; i < cantidad; i++)
+        {
+            Console.WriteLine(array[i]);
+        }
+
+
 
     }
 }
