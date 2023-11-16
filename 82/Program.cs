@@ -8,7 +8,7 @@ los valores en el segundo subarray y finalmente el promedio global.
 */ //Boris Garcés Vernier
 
 using System;
-class E81
+class E82
 {
     static void Main()
     {

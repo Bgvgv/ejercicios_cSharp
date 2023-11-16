@@ -7,7 +7,7 @@ y luego muéstralos.
 
 
 using System;
-class E81
+class E83
 {
 
     struct datosDelJuego

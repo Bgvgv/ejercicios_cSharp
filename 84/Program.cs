@@ -4,7 +4,7 @@
 
 
 using System;
-class E81
+class E84
 {
 
     struct datosDelJuego
@@ -30,6 +30,7 @@ const int cantidad = 3;
             string? plataforma = Console.ReadLine();
             Console.Write("Espacio que ocupa en MB: ");
             int espacio = Convert.ToInt32(Console.ReadLine());
+            System.Console.WriteLine();//Salto de línea
 
             datosDelJuego[] juego = new datosDelJuego[cantidad];
             juego[i].titulo = titulo;
