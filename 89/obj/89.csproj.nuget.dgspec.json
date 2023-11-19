@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/ejercicios_cSharp/prueba/prueba.csproj": {}
+    "/workspaces/ejercicios_cSharp/89/89.csproj": {}
   },
   "projects": {
-    "/workspaces/ejercicios_cSharp/prueba/prueba.csproj": {
+    "/workspaces/ejercicios_cSharp/89/89.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/ejercicios_cSharp/prueba/prueba.csproj",
-        "projectName": "prueba",
-        "projectPath": "/workspaces/ejercicios_cSharp/prueba/prueba.csproj",
+        "projectUniqueName": "/workspaces/ejercicios_cSharp/89/89.csproj",
+        "projectName": "89",
+        "projectPath": "/workspaces/ejercicios_cSharp/89/89.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/ejercicios_cSharp/prueba/obj/",
+        "outputPath": "/workspaces/ejercicios_cSharp/89/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

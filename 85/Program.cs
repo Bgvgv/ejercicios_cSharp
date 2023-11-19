@@ -8,9 +8,6 @@ parte de un array) y luego muéstralos.
 */ //Boris Garcés Vernier
 
 
-/*
-84. Crea una versión mejorada del ejercicio anterior, que pida al usuario los datos de 3 juegos, los guarde en un array y luego los muestre.
-*/ //Boris Garcés Vernier
 
 
 using System;

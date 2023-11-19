@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/ejercicios_cSharp/prueba/prueba.csproj",
-      "projectName": "prueba",
-      "projectPath": "/workspaces/ejercicios_cSharp/prueba/prueba.csproj",
+      "projectUniqueName": "/workspaces/ejercicios_cSharp/88/88.csproj",
+      "projectName": "88",
+      "projectPath": "/workspaces/ejercicios_cSharp/88/88.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/ejercicios_cSharp/prueba/obj/",
+      "outputPath": "/workspaces/ejercicios_cSharp/88/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

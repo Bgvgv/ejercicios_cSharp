@@ -1,0 +1,15 @@
+/workspaces/ejercicios_cSharp/86/bin/Debug/net7.0/86
+/workspaces/ejercicios_cSharp/86/bin/Debug/net7.0/86.deps.json
+/workspaces/ejercicios_cSharp/86/bin/Debug/net7.0/86.runtimeconfig.json
+/workspaces/ejercicios_cSharp/86/bin/Debug/net7.0/86.dll
+/workspaces/ejercicios_cSharp/86/bin/Debug/net7.0/86.pdb
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.csproj.AssemblyReference.cache
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.AssemblyInfoInputs.cache
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.AssemblyInfo.cs
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.csproj.CoreCompileInputs.cache
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.dll
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/refint/86.dll
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.pdb
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/86.genruntimeconfig.cache
+/workspaces/ejercicios_cSharp/86/obj/Debug/net7.0/ref/86.dll
